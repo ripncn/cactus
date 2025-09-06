@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main # change this to your branch
-  repo: ripncn/Cactus # 1、change this to your repo
+  repo: ripncn/cactus # 1、change this to your repo
   site_domain: blog.xongyi.com # 2、change this to your domain
   base_url: https://blog.xongyi.com # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
